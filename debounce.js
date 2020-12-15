@@ -10,15 +10,3 @@ export function debounce(func, delay = 500) {
     }, delay)
   }
 }
-// 节流
-export function throttle(fn, delay = 500) {
-  let running
-  return (...args) => {
-    if (running) return
-    running = true
-    setTimeout(() => {
-      running = false
-      fn.apply(this, args)
-    }, delay)
-  }
-}

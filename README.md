@@ -25,9 +25,11 @@
 判断数据类型是否为type
 ## isEmpty
 检查值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型。
-## debounce  throttle 防抖节流
+## debounce  防抖
 1. `debounce`
-2. `throttle`
+## throttle 节流
+1. `throttle`
+2. `throttleV2`
 
 ## scroll
 1. `scrollToTop` 平滑滚动到顶部
