@@ -18,7 +18,7 @@
 
 
 ## axios
-- [对axios的二次封装](blob/main/axios.js)
+- [对axios的二次封装](axios.js)
 ## getType
 获取数据类型
 ## isType
