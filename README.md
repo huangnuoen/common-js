@@ -19,14 +19,14 @@
 
 ## axios
 - [对axios的二次封装](axios.js)
-## getType
+## [getType](getType.js)
 获取数据类型
 ## isType
 判断数据类型是否为type
 ## isEmpty
 检查值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型。
 ## debounce  防抖
-1. `debounce`
+1. [debounce](debounce.js)
 ## throttle 节流
 1. `throttle`
 2. `throttleV2`
