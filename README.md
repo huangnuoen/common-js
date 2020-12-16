@@ -25,8 +25,9 @@
 判断数据类型是否为type
 ## [isEmpty](isEmpty.js)
 检查值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型。
-## debounce  防抖
-1. [debounce](debounce.js)
+## [debounce](debounce.js)  防抖
+1. debounce
+   
 ## [throttle](throttle.js) 节流
 1. `throttle`
 2. `throttleV2`
