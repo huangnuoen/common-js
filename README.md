@@ -35,6 +35,9 @@
 1. `scrollToTop` 平滑滚动到顶部
 2. `getScrollPosition` 当前页面滚动的位置
 
+## isWechat 
+判断是否微信环境
+
 ## shuffle 洗牌、随机数
 1. `getRandomInt` 取得[min,max]间的随机整体数
 
