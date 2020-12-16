@@ -17,7 +17,7 @@
 1. `deepClone`  对象深度克隆，包括基本类型，数组，对象，循环引用，不包括自定义类
 
 
-## axios
+## (axios)[https://github.com/huangnuoen/common-js/blob/main/axios.js]
 - 对axios的二次封装
 ## getType
 获取数据类型
@@ -50,6 +50,6 @@
 
 ## regExp
 正则匹配式
-1. checkPhone
-2. checkEmail
-3. checkIdcard
+1. `checkPhone`
+2. `checkEmail`
+3. `checkIdcard`
