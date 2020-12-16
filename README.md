@@ -50,3 +50,6 @@
 
 ## regExp
 正则匹配式
+1. checkPhone
+2. checkEmail
+3. checkIdcard
