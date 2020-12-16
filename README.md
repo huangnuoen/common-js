@@ -17,8 +17,8 @@
 1. `deepClone`  对象深度克隆，包括基本类型，数组，对象，循环引用，不包括自定义类
 
 
-## (axios)[https://github.com/huangnuoen/common-js/blob/main/axios.js]
-- 对axios的二次封装
+## axios
+- (对axios的二次封装[)https://github.com/huangnuoen/common-js/blob/main/axios.js]
 ## getType
 获取数据类型
 ## isType
